@@ -1,0 +1,36 @@
+.navlista{
+    margin-top: 500px;
+    margin-left: 40px;
+padding-left: 40px;
+padding-right: 40px;
+border: 1px solid black;
+border-radius: 25px;
+font-family:'Brush Script MT',cursive;
+font-size: 30px;
+text-decoration: none;
+color: black;
+}
+#navbar{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    background-color: rgb(49, 236, 195);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+.navlista:hover{
+    background-color: rgb(115, 185, 170) ;
+}
+#balkan{
+    text-align: center;
+    font-style: italic;
+}
+#putovanje{
+    font-style: italic;
+}
+#mapa{
+    width: 750px;
+    margin-left: 500px;
+}
