@@ -1,12 +1,16 @@
 #Registracija {
     width: 400px;
-    margin-top: 20px;
+    margin-top: 70px !important;
     background-color: rgb(49, 236, 195);
     padding-top: 20px;
     padding-bottom: 20px;
     border: 2px solid black;
     text-align: center;
-    margin-left: 150px;
+    margin:auto;
+    border-bottom-left-radius: 150px;
+    border-radius: 10px;
+    
+    
 }
 
 #Login {
@@ -17,12 +21,17 @@
     padding-bottom: 20px;
     border: 2px solid black;
     text-align: center;
-    float: right;
-    padding-bottom: 20px;
+  margin-top: 50px !important ; 
+    margin: auto;
+    height: 150px;
+    border-bottom-left-radius: 150px !important ;
+    border-radius: 10px;
+
 }
 
 .unos {
     border-radius: 5px;
+    height: 20px;
 
 }
 .error{
